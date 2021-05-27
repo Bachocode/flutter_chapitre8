@@ -43,7 +43,7 @@ class TripOverview extends StatelessWidget {
                 ),
               ),
               ElevatedButton(
-                child: Text('Selectioner une date'),
+                child: Text('Sélectioner une date'),
                 onPressed: setDate,
               )
             ],
